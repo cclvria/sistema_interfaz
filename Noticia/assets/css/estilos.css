@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Muli:wght@400;800;900&display=swap');
+
+
+header {
+  background-image: url('../img/IDM.png');
+  background-size: auto 106px;
+  background-repeat: no-repeat;
+  background-color: #BE1622;
+  height: 106px;
+}
+body {
+    background-image: url('../img/38-texturas-gratuitas-tb-800x0.png');
+    background-color: #666666;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+h1 {
+    color:#000000;
+    font-size: 40px;
+    font-family: 'Anton', sans-serif;
+}
+
+
+p {
+    font-family: 'Muli', sans-serif;
+
+}
+
+blockquote {
+    color: black;
+    font-size: 24px;
+    font-family: 'Muli', sans-serif;
+    font-style: italic;
+    border-left: solid #750613 20px;
+    padding: 12px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    border: 1px solid #555;
+  }
+  
+li {
+    float: left;
+    border-right: 1px solid #bbb;
+  }
+  
+  
+  li:last-child {
+    border-right:none;
+    border-left: oldlace;
+  } 
+   
+  li a {
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+  
+
+.img_principal {
+    width: 60%;
+}
+
+.bajada {
+    color: #000000;
+    font-size: 20px;
+    font-family: 'Muli', sans-serif;
+}
+
+.active {
+    background-color: #750613;
+  }
+
+#envoltorio {
+    width: 90%;
+    background-color: rgba(255, 255, 255, 0.75);
+    margin: 20px auto 20px auto;
+    /*margin-top: 20px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    margin-left: 10px;*/
+    padding: 15px;
+}
+
