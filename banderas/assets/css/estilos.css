@@ -9,6 +9,7 @@ div {
     position: relative;
     margin-left: 65px;
     margin-top: 40px;
+    border: 1px solid black;
 }
 
 .b2 {
@@ -43,6 +44,8 @@ div {
 
 
 
+
+
 .colombia-a {
     width: 100%;
     height: 100px;
@@ -64,9 +67,7 @@ div {
     width: 100%;
     height: 50px;
     background-color: red;
-    position: relative;
-    top: -5px;
-
+    position: relative; 
 }
 
 
@@ -118,10 +119,9 @@ div {
 .costarica-c {
     width: 100%;
     height: 33px;
-    border: 1px solid black;
     background-color: blue;
     position: relative;
-    top: 33px;
+    top: 35px;
     float: left;
 }
 
@@ -133,7 +133,6 @@ div {
 .islandia-a {
     width: 25%;
     height: 80px;
-    border: 1px solid black;
     background-color: blue;
     position: relative;
     float: left;
@@ -142,43 +141,38 @@ div {
 .islandia-b {
     width: 25%;
     height: 80px;
-    border: 1px solid black;
     background-color: blue;
     position: relative;
     float: left;
     top: 120px;
-    left: -86px;
+    left: -84px;
 }
 
 .islandia-c {
     width: 63%;
     height: 80px;
-    border: 1px solid black;
     background-color: blue;
     position: relative;
     float: right;
-    top: -83px;
+    top: -80px;
 }
 
 .islandia-d {
     width: 63%;
     height: 80px;
-    border: 1px solid black;
     background-color: blue;
     position: relative;
     float: right;
-    top: -45px;
+    top: -40px;
 
 }
 
 .islandia-e {
     width: 100%;
     height: 20px;
-    border: 1px solid black;
     background-color: red;
     position: relative;
-    top: -156px;
-    left: -1px;
+    top: -150px;
     float: left;
 
 }
@@ -188,7 +182,7 @@ div {
     height: 200px;
     background-color: red;
     position: relative;
-    top: -268px;
+    top: -260px;
     left: 93px;
     float: left;
 }
@@ -200,7 +194,7 @@ div {
 .japon-a {
     width: 100%;
     height: 200px;
-    border: 1px solid black;
+    
     background-color: #ffffff;
     position: relative;
     float: left;
