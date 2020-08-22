@@ -1,0 +1,238 @@
+
+
+div {
+    display: inline-block;
+}
+
+
+.b1 {
+    width: 25%;
+    height: 200px;
+    position: relative;
+    margin-left: 65px;
+    margin-top: 40px;
+}
+
+.b2 {
+    width: 25%;
+    height: 200px;
+    position: relative;
+    margin-left: 65px;
+    margin-top: 40px;
+    border: 1px solid green;
+
+}
+
+
+
+
+
+.francia-a {
+    width: 33%;
+    height: 200px;
+    background-color: red;
+    position: relative;
+    float: right;
+}
+.francia-b {
+    width: 33%;
+    height: 200px;
+    background-color: blue;
+    position: relative;
+    float: left;
+}
+
+
+
+.colombia-a {
+    width: 100%;
+    height: 100px;
+    background-color: yellow;
+    position: relative;
+    float: left;
+}
+
+.colombia-b {
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+    position: relative;
+    float: left;
+
+}
+.colombia-c {
+    width: 100%;
+    height: 50px;
+    background-color: red;
+    position: relative;
+    top:-5px;
+
+}
+
+
+
+
+
+.espana-a {
+    width: 100%;
+    height: 200px;
+    background-color:red;
+    float: left;
+}
+.espana-b {
+    width: 100%;
+    height: 90px;
+    background-color: yellow;
+    position: relative;
+    top:-149px;
+    float: left;
+    background-image: url('../img/escudo.png');
+    background-size: 70px auto;
+background-repeat: no-repeat;
+background-position: 35px;
+}
+
+
+
+
+
+.costarica-a {
+    width: 100%;
+    height: 33px;
+    background-color: blue;
+    position: relative;
+    float: left;
+}
+.costarica-b {
+    width: 100%;
+    height: 66px;
+    background-color: red;
+    position: relative;
+    margin-top:33px;
+    float: left;
+    left: 0px;
+}
+.costarica-c {
+    width: 100%;
+    height: 33px;
+    border: 1px solid black;
+    background-color: blue;
+    position: relative;
+    top: 33px;
+    float: left;
+}
+
+
+
+
+
+
+.islandia-a {
+    width: 25%;
+    height: 80px;
+    border: 1px solid black;
+    background-color: blue;
+    position: relative;
+    float: left;
+}
+.islandia-b {
+    width: 25%;
+    height: 80px;
+    border: 1px solid black;
+    background-color: blue;
+    position: relative;
+    float: left;
+    top:120px;
+    left: -86px;
+}
+.islandia-c {
+    width: 63%;
+    height: 80px;
+    border: 1px solid black;
+    background-color: blue;
+    position: relative;
+    float: right;
+    top:-83px;
+}
+.islandia-d {
+    width: 63%;
+    height: 80px;
+    border: 1px solid black;
+    background-color: blue;
+    position: relative;
+    float: right;
+    top:-45px;
+
+}
+.islandia-e {
+    width: 100%;
+    height: 20px;
+    border: 1px solid black;
+    background-color: red;
+    position: relative;
+    top: -156px;
+    left: -1px;
+    float: left;
+    
+}
+.islandia-f{
+    width: 7%;
+    height: 200px;
+    background-color: red;
+    position: relative;
+    top: -268px;
+    left: 93px;
+    float: left;
+}
+
+
+
+
+
+.japon-a {
+    width: 100%;
+    height: 200px;
+    border: 1px solid black;
+    background-color: #ffffff;
+    position: relative;
+    float: left;
+}
+.japon-b {
+    width: 40%;
+    height: 60%;
+    background-color: red;
+    position: relative;
+    border-radius: 100%;
+    float: left;
+    top: -160px;
+    left: 95px;
+}
+
+
+
+
+
+.chile-a {
+    width: 35%;
+    height: 200px;
+    background-color: blue;
+    position: relative;
+    float: left;
+    background-image: url('../img/estrella.png');
+    background-size: 70% auto;
+    background-repeat: no-repeat;
+    background-position: 15px 12px;
+}
+.chile-b {
+    width: 100%;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    float: left;
+    top: -100px;
+}
+
+#princi {
+    width: 100%
+
+}
